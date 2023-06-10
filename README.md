@@ -1,6 +1,6 @@
-# API Automation Framework
+# API Automation Framework using REST-Assured
 
-### This is my API automation framework for the full crud operation in Restful-booker.
+### This is my API automation framework for the full crud operation of the Restful-booker.
 Use the given link to fine the API document for the restful booker APIs. https://restful-booker.herokuapp.com/apidoc/index.html.
 
 ### Tech Stack
